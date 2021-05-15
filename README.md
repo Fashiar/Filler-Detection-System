@@ -25,4 +25,6 @@ This project used the Mask-RCNN to detect and classify two types of fillers (fib
 4. Run the "filler_detection_system.ipynb" file to train and testing
 In case of failing to open the "train_mrcnn.ipynb" file here, go to: https://nbviewer.jupyter.org/ and paste https://github.com/Fashiar/Filler-Detection-System/blob/main/filler_detection_system.ipynb to the viewer tab
 
+Due to the storage size, we did not uplaod the train and test images. However you will able to generates images using "simulate_image_with_annotation.py" file.
+
 Acknowledgement: Thanks to Emmersive-limit to give the idea of image systhesis for coco-like dataset
