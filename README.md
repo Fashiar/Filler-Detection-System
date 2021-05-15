@@ -1,7 +1,7 @@
 # Filler-Detection-System
-Filler detection System to Detect, Classify, and Segment the Composite Fillers (Fibers and Particles)
+Filler Detection System (FDS) to Detect, Classify, and Segment the Composite Fillers (Fibers and Particles)
 
-This project used the Mask-RCNN to detect and classify two types of fillers (fibers and particles) from artifically generated SEM images To run the demo successfully, follow the steps shown below:
+Here, we used the Mask-RCNN as the backbone of FDS to classify, detect and segment two types of fillers (fibers and particles) from artifically generated SEM images. To run the demo successfully, follow the steps shown below:
 
 1. Run the "simulate_image_with_annotation.py" file to synthesize the images
 
