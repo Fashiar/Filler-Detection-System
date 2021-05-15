@@ -23,6 +23,6 @@ This project used the Mask-RCNN to detect and classify two types of fillers (fib
 2. Clone the matterport Mask_RCNN repository from https://github.com/matterport/Mask_RCNN
 3. Install the pycocotools as demonstrated in https://github.com/matterport/Mask_RCNN
 4. Run the "filler_detection_system.ipynb" file to train and testing
-In case of failing to open the "train_mrcnn.ipynb" file here, go to: https://nbviewer.jupyter.org/ and paste https://github.com/Fashiar/Filler-Detection-System/blob/master/filler_detection_system.ipynb to the viewer tab
+In case of failing to open the "train_mrcnn.ipynb" file here, go to: https://nbviewer.jupyter.org/ and paste https://github.com/Fashiar/Filler-Detection-System/blob/main/filler_detection_system.ipynb to the viewer tab
 
 Acknowledgement: Thanks to Emmersive-limit to give the idea of image systhesis for coco-like dataset
