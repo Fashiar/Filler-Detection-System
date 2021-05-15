@@ -4,8 +4,11 @@ Filler detection System to Detect, Classify, and Segment the Composite Fillers (
 This project used the Mask-RCNN to detect and classify two types of fillers (fibers and particles) from artifically generated SEM images To run the demo successfully, follow the steps shown below:
 
 1. Run the "simulate_image_with_annotation.py" file to synthesize the images
+
       -It will create the necessary images and their corresponding masks
+      
       -It will also create the .JSON annotation file
+      
            Following are the structure of the dataset 
             dataset
               |--train
